@@ -6,12 +6,20 @@
   "author": "reireias <reireias@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "commit": "git-cz",
     "lint": "eslint --ext .js --ignore-path .gitignore ."
   },
   "devDependencies": {
+    "commitizen": "^4.0.3",
+    "cz-conventional-changelog": "3.0.2",
     "eslint": "^6.7.1",
     "eslint-config-prettier": "^6.7.0",
     "eslint-plugin-prettier": "^3.1.1",
     "prettier": "^1.19.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
