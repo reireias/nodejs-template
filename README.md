@@ -1,4 +1,4 @@
-![Actions Status](https://github.com/reireias/nodejs-template/workflows/main/badge.svg)](https://github.com/reireias/nodejs-template/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![[Actions Status](https://github.com/reireias/nodejs-template/workflows/main/badge.svg)](https://github.com/reireias/nodejs-template/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # nodejs-template
 My Node.js project template for GitHub template repository.
