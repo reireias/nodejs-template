@@ -10,7 +10,7 @@
     "lint": "eslint --ext .js --ignore-path .gitignore ."
   },
   "devDependencies": {
-    "commitizen": "^4.2.2",
+    "commitizen": "^4.2.3",
     "cz-conventional-changelog": "3.3.0",
     "eslint": "^7.13.0",
     "eslint-config-prettier": "^7.0.0",
